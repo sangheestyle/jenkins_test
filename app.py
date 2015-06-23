@@ -8,3 +8,4 @@ print("Hello world 7!")
 for i in range(0, 10):
   # violate pep8
   print i
+  print i
