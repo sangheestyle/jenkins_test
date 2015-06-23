@@ -1,4 +1,5 @@
-import sys, os
+import sys
+import os
 
 x             = 1
 y             = 2
