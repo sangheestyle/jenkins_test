@@ -1,5 +1,9 @@
 import sys, os
 
+x             = 1
+y             = 2
+long_variable = 3
+
 print("Hello world!")
 print("Hello world 2!")
 print("Hello world 3!")
